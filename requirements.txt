@@ -1,0 +1,13 @@
+langchain
+langgraph
+langchain_community
+langchain-groq
+langchain-openai
+langchain-google-genai
+python-dotenv
+ipykernel
+langchain-tavily
+langchain_core
+pydantic
+
+streamlit
